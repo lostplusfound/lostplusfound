@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm lostplusfound
+# 👋 Hi there, I'm Stephen
 
 I'm a developer driven by a passion for **civic engagement**, **digital privacy**, and **tech for social good**. I believe in building technology that empowers people, and having fun and learning in the process.
 
